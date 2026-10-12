@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VoiceBid Privacy Policy</title>
+<style>
+  :root { --text:#1b1f2a; --muted:#5a6275; --bg:#ffffff; --accent:#1f3fae; --line:#e3e6ee; }
+  @media (prefers-color-scheme: dark) { :root { --text:#e8eaf1; --muted:#a3aabb; --bg:#12151d; --accent:#8fa8ff; --line:#2a2f3c; } }
+  body { margin:0; background:var(--bg); color:var(--text); font:16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width:760px; margin:0 auto; padding:32px 16px 64px; }
+  h1 { font-size:1.8rem; margin:0 0 4px; }
+  h2 { font-size:1.15rem; margin:32px 0 8px; }
+  p, li { color:var(--text); }
+  .muted { color:var(--muted); }
+  a { color:var(--accent); }
+  nav { margin:16px 0 24px; }
+  hr { border:0; border-top:1px solid var(--line); margin:48px 0; }
+</style>
+</head>
+<body>
+<main>
+
+<h1>VoiceBid Privacy Policy</h1>
+<p class="muted">Effective date: October 12, 2026</p>
+<nav><a href="#en">English</a> · <a href="#es">Español</a></nav>
+
+<section id="en">
+<p>This policy explains what information the VoiceBid Android app ("VoiceBid", "the app") handles, why, and the choices you have. VoiceBid is published by Michal Stráník ("we", "us"). Contact: <a href="mailto:mistradev@gmail.com">mistradev@gmail.com</a>.</p>
+
+<h2>1. Your quotes, invoices and business details stay on your device</h2>
+<p>Quotes, line items, prices, invoices, customers (names and addresses you enter), your catalog, your business profile (business name, your name, phone, email, address, license number, payment instructions and payment link) and your settings are stored only on your device. We do not receive them on any server.</p>
+<p>If Android device backup is turned on, Android may back up this data to your Google account and restore it on a new phone. Backup is provided by Android and Google under your Google account settings; we cannot access these backups.</p>
+<p>When you share an invoice PDF, it is sent through the app you choose (for example email or a messaging app). That transfer is under your control and the chosen app's terms.</p>
+
+<h2>2. Microphone and dictation</h2>
+<p>VoiceBid uses the microphone only while you dictate, after you grant the microphone permission. Speech is converted to text by your phone's speech recognition service. By default VoiceBid asks for offline (on-device) recognition. If you turn on online dictation in Settings, your phone's speech service may send audio to its provider (for example Google) to recognize it. VoiceBid itself does not store or send recordings; the resulting text is turned into line items on your device.</p>
+
+<h2>3. Location</h2>
+<p>If you allow location access, VoiceBid uses your device location only to suggest the job address in a quote. The location is converted to an address by your device's geocoding service, which may use the network. VoiceBid does not store your coordinates, does not track location in the background and does not send your location or addresses to us or to analytics.</p>
+
+<h2>4. Analytics and crash reports</h2>
+<p>We use Google Firebase Analytics and Firebase Crashlytics to understand how the app is used and to fix crashes. These services collect:</p>
+<ul>
+  <li>App interactions, such as screens viewed, sessions and onboarding steps.</li>
+  <li>The trade you select (for example electrician or plumber) and whether you filled in a business name and a contact – never the business name or contact details themselves.</li>
+  <li>An approximate region: country, US time zone and a state hint derived on your device from the mobile network, SIM, language setting and time zone, plus a coarse location that Google derives from a masked IP address.</li>
+  <li>Subscription purchase events (product, price), recorded automatically by Google Analytics.</li>
+  <li>Device and app information (device model, Android and app version), crash logs and diagnostics.</li>
+  <li>Identifiers: the Firebase app-instance ID, the Crashlytics installation ID and the Android advertising ID.</li>
+</ul>
+<p>We use this information only for analytics and app stability. We do not use it for advertising, do not show ads and do not sell your personal information. Data is sent encrypted (HTTPS/TLS). Google processes it as our service provider under the <a href="https://firebase.google.com/terms/data-processing-terms">Firebase data processing terms</a> and <a href="https://policies.google.com/privacy">Google's privacy policy</a>. Analytics data is retained for up to 14 months; crash data for up to 90 days.</p>
+<p>You can reset or delete your advertising ID in your Android settings (Settings › Privacy › Ads, or Settings › Google › Ads, depending on the device).</p>
+
+<h2>5. Subscriptions and payments</h2>
+<p>Subscriptions are purchased and managed through Google Play. Google processes the payment; we never receive your card or bank details. The app checks with Google Play whether your subscription is active. The free trial is tracked on your device and needs no payment details.</p>
+
+<h2>6. Your choices and rights</h2>
+<ul>
+  <li>You can deny or revoke the microphone and location permissions at any time in Android settings; the app keeps working with manual entry.</li>
+  <li>Uninstalling the app or clearing its data removes the data stored on your device (backups in your Google account are managed by Android).</li>
+  <li>You can ask us to access or delete analytics or crash data associated with your installation by emailing us. Because we do not collect your name or email in analytics, we may ask for details that help us locate your data.</li>
+</ul>
+<p>Depending on your state (for example California, Virginia, Colorado, Connecticut or Texas), you may have rights to know, access, correct or delete personal information and to opt out of its sale or use for targeted advertising. We do not sell personal information or use it for targeted advertising. To exercise your rights, contact us at the email above.</p>
+
+<h2>7. Children</h2>
+<p>VoiceBid is a business tool intended for adults. It is not directed to children under 13, and we do not knowingly collect personal information from children.</p>
+
+<h2>8. Security</h2>
+<p>Data sent to analytics and crash reporting is encrypted in transit. Data on your device is protected by Android's app sandbox and your device security settings.</p>
+
+<h2>9. Changes</h2>
+<p>We will update this policy when the app's data practices change and show the new effective date above.</p>
+</section>
+
+<hr>
+
+<section id="es" lang="es">
+<h1>Política de privacidad de VoiceBid</h1>
+<p class="muted">Fecha de vigencia: 12 de octubre de 2026</p>
+<p>Esta política explica qué información maneja la app para Android VoiceBid ("VoiceBid", "la app"), para qué y qué opciones tienes. VoiceBid es publicada por Michal Stráník ("nosotros"). Contacto: <a href="mailto:mistradev@gmail.com">mistradev@gmail.com</a>.</p>
+
+<h2>1. Tus cotizaciones, facturas y datos de negocio se quedan en tu dispositivo</h2>
+<p>Las cotizaciones, partidas, precios, facturas, clientes (nombres y direcciones que ingreses), tu catálogo, tu perfil de negocio (nombre del negocio, tu nombre, teléfono, correo, dirección, número de licencia, instrucciones y enlace de pago) y tu configuración se guardan solo en tu dispositivo. No los recibimos en ningún servidor.</p>
+<p>Si la copia de seguridad de Android está activada, Android puede respaldar estos datos en tu cuenta de Google y restaurarlos en un teléfono nuevo. La copia la ofrecen Android y Google según la configuración de tu cuenta; nosotros no tenemos acceso a ella.</p>
+<p>Cuando compartes una factura en PDF, se envía a través de la app que elijas (por ejemplo, correo o mensajería), bajo tu control y los términos de esa app.</p>
+
+<h2>2. Micrófono y dictado</h2>
+<p>VoiceBid usa el micrófono solo mientras dictas y después de que concedas el permiso. El servicio de reconocimiento de voz de tu teléfono convierte la voz en texto. De forma predeterminada VoiceBid solicita reconocimiento sin conexión (en el dispositivo). Si activas el dictado en línea en Configuración, el servicio de voz de tu teléfono puede enviar el audio a su proveedor (por ejemplo, Google) para reconocerlo. VoiceBid no guarda ni envía grabaciones; el texto resultante se convierte en partidas en tu dispositivo.</p>
+
+<h2>3. Ubicación</h2>
+<p>Si permites el acceso a la ubicación, VoiceBid la usa solo para sugerir la dirección del trabajo en una cotización. El servicio de geocodificación de tu dispositivo, que puede usar la red, convierte la ubicación en una dirección. VoiceBid no guarda tus coordenadas, no rastrea la ubicación en segundo plano y no envía tu ubicación ni direcciones a nosotros ni a la analítica.</p>
+
+<h2>4. Analítica e informes de fallos</h2>
+<p>Usamos Google Firebase Analytics y Firebase Crashlytics para entender cómo se usa la app y corregir fallos. Estos servicios recopilan:</p>
+<ul>
+  <li>Interacciones con la app, como pantallas vistas, sesiones y pasos de configuración inicial.</li>
+  <li>El oficio que eliges (por ejemplo, electricista o plomero) y si completaste un nombre de negocio y un contacto; nunca el nombre ni los datos de contacto.</li>
+  <li>Una región aproximada: país, zona horaria de EE. UU. y un estado probable calculados en tu dispositivo a partir de la red móvil, la SIM, el idioma y la zona horaria, además de una ubicación aproximada que Google deriva de una dirección IP enmascarada.</li>
+  <li>Eventos de compra de suscripciones (producto, precio), registrados automáticamente por Google Analytics.</li>
+  <li>Información del dispositivo y de la app (modelo, versión de Android y de la app), registros de fallos y diagnósticos.</li>
+  <li>Identificadores: el ID de instancia de Firebase, el ID de instalación de Crashlytics y el ID de publicidad de Android.</li>
+</ul>
+<p>Usamos esta información solo para analítica y estabilidad de la app. No la usamos para publicidad, no mostramos anuncios y no vendemos tu información personal. Los datos se envían cifrados (HTTPS/TLS). Google los procesa como nuestro proveedor de servicios según los <a href="https://firebase.google.com/terms/data-processing-terms">términos de procesamiento de datos de Firebase</a> y la <a href="https://policies.google.com/privacy">política de privacidad de Google</a>. Los datos de analítica se conservan hasta 14 meses; los de fallos, hasta 90 días.</p>
+<p>Puedes restablecer o eliminar tu ID de publicidad en la configuración de Android (Configuración › Privacidad › Anuncios, o Configuración › Google › Anuncios, según el dispositivo).</p>
+
+<h2>5. Suscripciones y pagos</h2>
+<p>Las suscripciones se compran y administran en Google Play. Google procesa el pago; nunca recibimos los datos de tu tarjeta o banco. La app consulta a Google Play si tu suscripción está activa. La prueba gratuita se controla en tu dispositivo y no requiere datos de pago.</p>
+
+<h2>6. Tus opciones y derechos</h2>
+<ul>
+  <li>Puedes negar o revocar los permisos de micrófono y ubicación en cualquier momento en la configuración de Android; la app sigue funcionando con ingreso manual.</li>
+  <li>Desinstalar la app o borrar sus datos elimina los datos guardados en tu dispositivo (las copias en tu cuenta de Google las administra Android).</li>
+  <li>Puedes pedirnos por correo acceder a los datos de analítica o fallos de tu instalación o eliminarlos. Como no recopilamos tu nombre ni correo en la analítica, podemos pedirte datos que nos ayuden a encontrarlos.</li>
+</ul>
+<p>Según tu estado (por ejemplo, California, Virginia, Colorado, Connecticut o Texas), puedes tener derecho a conocer, acceder, corregir o eliminar información personal y a optar por no permitir su venta o uso para publicidad dirigida. No vendemos información personal ni la usamos para publicidad dirigida. Para ejercer tus derechos, escríbenos al correo indicado arriba.</p>
+
+<h2>7. Menores</h2>
+<p>VoiceBid es una herramienta de trabajo para adultos. No está dirigida a menores de 13 años y no recopilamos a sabiendas información personal de menores.</p>
+
+<h2>8. Seguridad</h2>
+<p>Los datos enviados a analítica e informes de fallos se cifran en tránsito. Los datos en tu dispositivo están protegidos por el aislamiento de apps de Android y la seguridad de tu dispositivo.</p>
+
+<h2>9. Cambios</h2>
+<p>Actualizaremos esta política cuando cambien las prácticas de datos de la app y mostraremos la nueva fecha de vigencia arriba.</p>
+</section>
+
+</main>
+</body>
+</html>
